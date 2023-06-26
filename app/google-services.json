@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "295200000753",
+    "project_id": "musicbox1-add7a",
+    "storage_bucket": "musicbox1-add7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295200000753:android:baa8a8c80bb88f5abf3750",
+        "android_client_info": {
+          "package_name": "com.example.musicbox1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295200000753-sc5ll6doagahlmm0s83nhvnk1aq0evkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABDBpUGfOZbKSK0Dyb9bga7IENV7s992E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295200000753-sc5ll6doagahlmm0s83nhvnk1aq0evkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

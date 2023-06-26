@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MusicBox1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_name">Nombre de usuario</string>
+    <string name="email">Email</string>
+    <string name="contrasena">Contraseña (Minimo 6 caracteres)</string>
+    <string name="confirmar_contrasena">Confirmar Contraseña</string>
+    <string name="ya_tienes_una_cuenta">Ya tienes una cuenta?</string>
+    <string name="entra_ya">Entra ya</string>
+    <string name="registrate">Registrate</string>
+    <string name="no_tienes_una_cuenta">No tienes una cuenta</string>
+    <string name="reiniciar_contrasena">Reiniciar Contraseña</string>
+    <string name="no_te_preocupes_solo_necesitamos_el_correo_con_el_que_te_registraste">No te preocupes, solo necesitamos el correo con el que te registraste</string>
+    <string name="pagina_atras">Pagina Atras</string>
+    <string name="restablecer">Restablecer</string>
+    <string name="reiniciar_contrase_a">Reiniciar Contraseña</string>
+    <string name="iniciar_sesi_n">Iniciar sesión</string>
+</resources>
